@@ -2,22 +2,22 @@
 title: Protech Website
 date: 2024-07-05T10:10:00.000Z
 cats:
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
-    name: Grumpy cat (Tardar Sauce)
-  - name: New Cat
-    description: I am new cat here
-  - name: Wild Cat
-    description: I joined on 04th July
-  - description: Maru is a Scottish Fold from Japan, and he loves boxes. Maru loves Japan.
-    name: Maru (まる)
+  - description: PRO-TECH is a time- and money-saving enterprise project management
+      software solution for door, frame and architectural hardware distributors
+    name: What is PRO-TECH®?
+  - name: Overview
+    description: PRO-TECH TITAN simplifies the configuration of frames and doors
+      thoughout your project. One of the ways that this is done is through the
+      use of Frame Types and Door Types.
+  - description: PRO-TECH collects product data from across the entire industry to
+      make the process of submittals, estimating, specifying, quoting, ordering,
+      reporting and more, completely seamless and efficient. PRO-TECH includes
+      data from the product manufacturers listed below.
+    name: How does PRO-TECH work?
 ---
-Welcome to my awesome page about cats of the internet. 
+**Project management solution for distributors**
 
-This page is built with NextJS, and content is managed in Decap CMS
-
-![](img/titan_v8.png)
+![](img/titanapp128.png)
 
 ![]()
 
