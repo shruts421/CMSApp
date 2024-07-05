@@ -1,6 +1,6 @@
 ---
 title: Protech Website
-date: 2024-07-04T23:38:00.000Z
+date: 2024-07-05T10:10:00.000Z
 cats:
   - description: Lil Bub is an American celebrity cat known for her unique appearance.
     name: Lil Bub
@@ -17,7 +17,7 @@ Welcome to my awesome page about cats of the internet.
 
 This page is built with NextJS, and content is managed in Decap CMS
 
-![](img/protech_titan.png)
+![](img/titan_v8.png)
 
 ![]()
 
